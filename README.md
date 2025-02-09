@@ -1,7 +1,9 @@
 # 💻 Hacking: Database
 
 ## 📌 Overview
-This Python script is a fun and interactive simulation of hacking into a database to retrieve [@ThePrimeDeveloper](https://github.com/ThePrimeDeveloper) social links. It uses ANSI escape codes to produce colorful terminal output and features a dynamic progress
+This Python script is a fun and interactive simulation of hacking into a database to retrieve [@ThePrimeDeveloper](https://github.com/ThePrimeDeveloper) social links. 
+
+It uses ANSI escape codes to produce colorful terminal output and features a dynamic progress
 
 ---
 
