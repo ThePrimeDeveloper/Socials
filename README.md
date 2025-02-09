@@ -46,7 +46,6 @@ This Python script is a fun and interactive simulation of hacking into a databas
    ```bash
    python socials.py
    ```
-   Replace `your_script.py` with the filename of the script.
 
 ---
 
