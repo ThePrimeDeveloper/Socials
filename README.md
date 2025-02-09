@@ -43,6 +43,7 @@ This Python script is a fun and interactive simulation of hacking into a databas
 ## 🚀 Running the Script
 
 1. **Run the Script:**
+
    ```bash
    python socials.py
    ```
